@@ -250,12 +250,21 @@ zomato-restaurant-analysis/
 ```
 
 
-## 🎓 Learning Outcomes
+## How to Run
 
-Through this project, I gained practical experience in:
+```bash
+# Clone the repository
+git clone https://github.com/VAIBHAVI-1904/zomato-bangalore-eda.git
 
-- Working with real-world datasets
-- Data cleaning and preprocessing techniques
-- Exploratory data analysis workflows
-- Business-oriented data interpretation
-- Visual storytelling using Python
+# Install dependencies
+pip install pandas matplotlib seaborn jupyter
+
+# Launch notebook
+jupyter notebook zomato_eda.ipynb
+```
+
+---
+
+## Full Notebook
+View the complete analysis with all charts and insights on Kaggle:
+[🔗 View on Kaggle](https://www.kaggle.com/code/vaibhavi1911/zomato-bangalore-eda-restaurant-trends-insight))
