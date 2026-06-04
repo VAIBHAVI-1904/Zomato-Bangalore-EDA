@@ -144,7 +144,6 @@ Analyzed cuisine trends and market demand across Bangalore.
 - Diverse cuisine offerings help restaurants attract wider audiences.
 
 
-
 ### 5️⃣ Restaurant Category Analysis
 
 Compared different restaurant categories using customer ratings and engagement.
@@ -174,7 +173,6 @@ Compared different restaurant categories using customer ratings and engagement.
 | Cuisine Trends | North Indian cuisine leads in popularity |
 | Customer Satisfaction | Fine Dining restaurants achieve the highest ratings |
 
----
 
 ## 💡 Business Recommendations
 
@@ -185,7 +183,6 @@ Based on the analysis:
 - Focus on food quality and service rather than premium pricing alone.
 - Emerging cuisine segments provide opportunities for market differentiation.
 
----
 
 ## 📷 Sample Visualizations
 
@@ -197,9 +194,17 @@ The notebook contains visualizations including:
 - Cuisine Popularity Distribution
 - Restaurant Category Comparison
 
+### 📍 Restaurant Distribution by Location
 ![Restaurant Distribution](https://github.com/user-attachments/assets/548dc9a4-1187-4d7a-9e1d-41233a947379)
 
+
+### 🍜 Cuisine Popularity Analysis
 ![Cuisine Analysis](https://github.com/user-attachments/assets/e75edcf9-6e88-4b1c-b8c8-ef8850bb9a43)
+
+
+### 🛒 Online Ordering Analysis
+
+![Online Ordering Analysis](https://github.com/user-attachments/assets/ade5217a-d965-417b-bbe0-a9f64dee9fe0)
 
 
 ## 🚀 Skills Demonstrated
